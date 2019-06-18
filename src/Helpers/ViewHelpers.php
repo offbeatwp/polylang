@@ -5,6 +5,7 @@ class ViewHelpers {
     public function langSwitcher(){
 
         return pll_the_languages();
+
     }
 
 }
