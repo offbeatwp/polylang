@@ -6,7 +6,8 @@
   "authors": [
     {
       "name": "Daan Seegers",
-      "email": "daan@raow.nl"
+      "email": "daan@raow.nl",
+      "role": "Developer"
     }
   ],
   "autoload": {
