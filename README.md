@@ -1,2 +1,2 @@
 # polylang
-The polylang service from offbeatWP allows you to run polylang shortcuts in your twig template
+The polylang service allows you to run polylang shortcodes in your twig template. 
